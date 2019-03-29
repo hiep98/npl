@@ -120,6 +120,16 @@ body > header .logo {
     margin-left: 10%;
     margin-top: 15px;
 }
+
+body > header .lan {    
+    float: right;
+    margin-right: 3%;
+    margin-top: 30px;
+}
+
+body > header .lan .lang{
+  width: 120%;
+}
 /*nav*/
 nav {
     float: left;
